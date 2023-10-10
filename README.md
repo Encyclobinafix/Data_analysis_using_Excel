@@ -1,6 +1,8 @@
 # Data_analysis_using_Excel
 This project is about analysing data using Excel to identify trends and provide meaningful insights to business stakeholders for better decisoin making.
 
+![](Excel Logo.png)
+
 **Introduction:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I am currently undergoing a data analytics training and a company's sales dataset was given to us in class to work on as our first assignment. Having been taught data manipulation, managaement, functions, and formulas in Excel, it is exciting to use the skills learned to analyse the dataset and provide useful insights.
