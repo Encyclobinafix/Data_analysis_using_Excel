@@ -7,6 +7,7 @@ This is a training project demonstrating the analysis of data using Excel, to id
 ## **Introduction:**
 ___
 This is an Excel project. I am currently undergoing a data analytics training and for my first week of training, I was given two assignments. The first assignment required that I create an employee data set and answer some specific questions, practicing the use of conditional foormatting. For the second assignment, a company's sales dataset was provided. Having been taught conditional formatting, data manipulation, managaement, functions, and formulas in Excel, it is exciting to use the skills learned to analyse the dataset and provide useful insights.
+
 -*Disclaimaer:*_ The datasets used for this project are solely made up for the purpose of training.
 
 ## **Skills/Concepts demonstrated:**
@@ -103,6 +104,6 @@ Low Sales with high profit    |    High sales with low profit
 - It was a profitable period for the company as they made a total proit of $16,893,702.25
 - From the data, there was a total of 63 transactions with a negative profit value and zero profit. This "loss" amounted to a total of $777,321.25 which  greatly impacted the overall profit for the period.
 - Of the 63 losses, 10 came from Canada, 13 from France, 12 from Germany, 14 from Mexico, and 14 from the United States. Although Canada had the least nmber, the number of transactional losses across all regions appear to be within close range.
-- More investigations can be carried out to determine how to curb losses, and boost overral sales revenue and profits across all contries.
+- More investigations can be carried out to determine how to curb losses, and boost overral sales revenue and profits across all countries.
 
-  1{[](Losses.png)
+  ![](Losses.png)
