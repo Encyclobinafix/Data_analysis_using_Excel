@@ -94,14 +94,14 @@ Low Sales with high profit    |    High sales with low profit
 
   - Data on net sales, gross sales, discounts, profits, products, transaction dates, country, units sold, manufaturing price, selling prices cost of goods sold, etc.
   - Overall, there are 702 (including the headers) and 17 columns.
-  - One sheet with all of the data computed
-  - Three new sheets were added to utress points for the assignment
+  - The dataset had just one sheet with all of the data computed.
+  - Four new sheets were added to butress points for the assignment.
 
 ## **Conclusion and Recommendations:**
 ***
 - Overall, the company generated a total revenue of $118,726,350.24
 - It was a profitable period for the company as they made a total proit of $16,893,702.25
-- From the data, there was a total of 63 transactions with a negative profit value and zero profit. This "loss" amounted to a total of &777,321.25 which  greatly impacted the overall profit for the period.
+- From the data, there was a total of 63 transactions with a negative profit value and zero profit. This "loss" amounted to a total of $777,321.25 which  greatly impacted the overall profit for the period.
 - Of the 63 losses, 10 came from Canada, 13 from France, 12 from Germany, 14 from Mexico, and 14 from the United States. Although Canada had the least nmber, the number of transactional losses across all regions appear to be within close range.
 - More investigations can be carried out to determine how to curb losses, and boost overral sales revenue and profits across all contries.
 
