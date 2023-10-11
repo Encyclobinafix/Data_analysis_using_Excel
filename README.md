@@ -15,7 +15,7 @@ This is an Excel project. I am currently undergoing a data analytics training an
   - sort and filter
   - find and select
   - data type formatting
-  - functions e.g [LEFT(), RIGHT(), SUM(), AVERAGE(), CONCATNATE(), COUNT(), IF(), MIN(), MAX()]
+  - functions e.g [LEFT(), RIGHT(), MID(), SUM(), AVERAGE(), CONCATNATE(), COUNT(), IF(), MIN(), MAX()]
 
 
 ## **Problem Statement/Questions to be answered:**
@@ -38,13 +38,14 @@ The following tasks were requested:
 
 - For question 2, I copied the data to a new worsheet and split the employees fullnames using two diffetent functions. First, I inserted 2 columns to the right of column B and using the "tesxt-to-column" function, I split the names into 2 different columns, specifying the delimeter. Secondly, I used the LEN and MID functions to split the fullnames into columns H and I just to showcase a range of how the same results can be accomplished. As an additional perk, I used the CONCATNATE function to join the first and last names back together into column J.
 
-  
+![](Splitting_firstnames.png) ![](Splitting_lastnames.png) ![](Joining_first_n_lastnames.png)
 
+- For question 3, I copied the data again to a new worksheet and used conditional formatting to highlight in yellow, employees name beginning with an 'E'. Next, I used conditional formatting to highlight the highest salary in green and the lowest in red.
 
+![](Max_min_salaries.png)
 
 ### _*Assignment 2:*_
 
-*Step 1:*
 The business had questions about their sales that they needed answers to. They wanted to know the following:
 
 - What was the total revenue?
@@ -55,9 +56,13 @@ The business had questions about their sales that they needed answers to. They w
 - How many transactions were recorded?
 - What was the highest profit generated in a single transaction?
 - Display high and low sales values
+![](Week_1_Class_Assignment_2.png)
+
+*Step 1:*
 
 
-  **Data Sourcing:**
+
+## **Data Sourcing:**
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   The data used was provided my the class instructor. The dataset contained the following information:
 
