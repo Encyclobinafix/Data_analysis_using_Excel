@@ -21,12 +21,30 @@ This is an Excel project. I am currently undergoing a data analytics training an
 ## **Problem Statement/Questions to be answered:**
 ___
 ### _*Assignment 1:*_
-I created an employee dataset containing 20 rows of unique employee id, full names, department, salary, and job type. 
-![](Employee_data)
 
+*Step 1:*
+I created an employee dataset containing 20 rows of unique employee id, full names, department, salary, and job type. Then, I formatted the data by aligning the texts, changing the data type, and highlighting the headers.
+
+![](Employee_data.png)
+
+*Step 2:*
 The following tasks were requested:
 
+![](Week_1_Class_Assignement_1.png)
 
+- For question 1, I copied the data to a new worksheet and labelled it. Next, using the filters function, I seleceted employees who are freelancers under the "job type" column. Next, I used conditional formatting to highlight in green, freelancers whose slaries were above $10,000.
+
+![](Freelance_employees.png)
+
+- For question 2, I copied the data to a new worsheet and split the employees fullnames using two diffetent functions. First, I inserted 2 columns to the right of column B and using the "tesxt-to-column" function, I split the names into 2 different columns, specifying the delimeter. Secondly, I used the LEN and MID functions to split the fullnames into columns H and I just to showcase a range of how the same results can be accomplished. As an additional perk, I used the CONCATNATE function to join the first and last names back together into column J.
+
+  
+
+
+
+### _*Assignment 2:*_
+
+*Step 1:*
 The business had questions about their sales that they needed answers to. They wanted to know the following:
 
 - What was the total revenue?
