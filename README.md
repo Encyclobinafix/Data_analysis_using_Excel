@@ -1,6 +1,6 @@
 # Data Analysis Using Excel
 ***
-This is a training project demonstrating the analysis of data using Excel, to identify trends, solve problems, and provide meaningful insights to business stakeholders for better decisoin making.
+This is a training project demonstrating the analysis of data using Excel, to identify trends, solve problems, and provide meaningful insights to business stakeholders for better decision making.
 
 ![](Excel_Logo.png)
 
